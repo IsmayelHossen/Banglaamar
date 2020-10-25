@@ -14,6 +14,6 @@
 ![entertainment](https://user-images.githubusercontent.com/55520812/97101884-2d5a5900-16cb-11eb-9c2f-6c3160d14b94.JPG)
 <h4>Sportsl News</h4>
 ![sports](https://user-images.githubusercontent.com/55520812/97101890-36e3c100-16cb-11eb-931e-7b8c714a4657.JPG)
-<h4>Search News</h4>
+
 ![search](https://user-images.githubusercontent.com/55520812/97101892-3a774800-16cb-11eb-96d1-780b912d3d50.JPG)
 
