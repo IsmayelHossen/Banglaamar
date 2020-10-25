@@ -3,7 +3,7 @@
 <h4>Laravel</h4>
 <h4>Bootstrap</h4>
 <h4>Mysql Database</h4>
-
+<h2>Application Outlook </h2>
 ![home1](https://user-images.githubusercontent.com/55520812/97101876-216e9700-16cb-11eb-8131-756b78cbeca4.JPG)
 ![home2](https://user-images.githubusercontent.com/55520812/97101877-24698780-16cb-11eb-9d55-0ecfdcedfc01.JPG)
 
